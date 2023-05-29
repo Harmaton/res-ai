@@ -40,3 +40,5 @@ pinecone.init(
 
 ``` python -m streamlit app.py```
 
+enter any login detail and proceed
+
